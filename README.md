@@ -1,4 +1,6 @@
 # flappy-in-c
-flappy bird in c
+~flappy~ Floppy bird in c
 
-change kar agar koi kami hai toh
+Don't read the code, that was the first time I wrote the actual code. 
+
+It only works in windows, PRs are welcome
